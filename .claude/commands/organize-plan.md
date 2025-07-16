@@ -9,6 +9,6 @@ To begin:
    - The Technical Implementation Plan (TIP) at: `./product-development/current-feature/plan.md`
 
 2. **Reorganize Checklist Items in the TIP**  
-   The current organization of the implmentation checklist is by infrastructure component (e.g., server logic, web/mobile client, testing, etc.). Your goal is to reorganize the checklist items so that each feature or user-facing capability is grouped with all tasks required to fully implement it, end to end. Think deeply about the dependencies between the items and the best way to group them, especially for any internal packages that are required to be implemented before the feature is complete.
+   The current organization of the implementation checklist is by infrastructure component (e.g., server logic, web/mobile client, testing, etc.). Your goal is to reorganize the checklist items so that each feature or user-facing capability is grouped with all tasks required to fully implement it, end to end. Think deeply about the dependencies between the items and the best way to group them, especially for any internal packages that are required to be implemented before the feature is complete.
 
 Create a new file called `./product-development/current-feature/plan-organized.md` with your changes.
